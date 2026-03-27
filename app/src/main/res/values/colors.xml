@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#7C3AED</color>
+    <color name="colorPrimaryDark">#5B21B6</color>
+    <color name="colorAccent">#A855F7</color>
+
+    <!-- UI Colors -->
+    <color name="accent">#7C3AED</color>
+    <color name="paper">#F3F4F6</color>
+    <color name="ink">#111827</color>
+    <color name="muted">#6B7280</color>
+    <color name="border">#E5E7EB</color>
+    <color name="success">#10B981</color>
+    <color name="danger">#EF4444</color>
+    <color name="warning">#F59E0B</color>
+</resources>

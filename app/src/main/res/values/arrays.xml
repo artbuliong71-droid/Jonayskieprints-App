@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="paper_sizes">
+        <item>A4</item>
+        <item>Short (8.5 x 11.)</item>
+        <item>Long (8.5 x 13)</item>
+    </string-array>
+
+    <string-array name="paper_types">
+        <item>White Paper</item>
+        <item>Matte Paper</item>
+        <item>Glossy Paper</item>
+        <item>Vellum</item>
+    </string-array>
+
+    <string-array name="photo_sizes">
+        <item>2x2 (ID Size)</item>
+        <item>1x1 (ID Size)</item>
+        <item>Passport Size</item>
+        <item>3R (3.5 x 5)</item>
+        <item>4R (4 x 6)</item>
+        <item>5R (5 x 7)</item>
+        <item>8R (8 x 10)</item>
+    </string-array>
+
+    <string-array name="folder_sizes">
+        <item>Short Folder</item>
+        <item>Long Folder</item>
+        <item>A4 Folder</item>
+    </string-array>
+
+    <string-array name="folder_colors">
+        <item>White</item>
+        <item>Brown</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Yellow</item>
+    </string-array>
+</resources>

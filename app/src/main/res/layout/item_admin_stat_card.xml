@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_stat_card"
+    android:gravity="center"
+    android:layout_margin="4dp"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Icon circle -->
+    <FrameLayout
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@drawable/bg_stat_icon"
+        android:layout_marginBottom="10dp">
+
+        <ImageView
+            android:id="@+id/iv_stat_icon"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_gravity="center"
+            android:tint="#FFFFFF" />
+    </FrameLayout>
+
+    <!-- Number -->
+    <TextView
+        android:id="@+id/tv_stat_value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textColor="#FFFFFF"
+        android:textSize="26sp"
+        android:textStyle="bold" />
+
+    <!-- Label -->
+    <TextView
+        android:id="@+id/tv_stat_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:gravity="center"
+        android:text="Label"
+        android:textColor="#CCFFFFFF"
+        android:textSize="11sp" />
+
+</LinearLayout>

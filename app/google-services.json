@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "395472208925",
+    "firebase_url": "https://jonayskieprints-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "jonayskieprints",
+    "storage_bucket": "jonayskieprints.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395472208925:android:e93108e7a42b3673b7b2f4",
+        "android_client_info": {
+          "package_name": "com.example.jonayskieprints"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395472208925-1ncl4eojnmq8uq7noh30ds2dd9h9mdb6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jonayskieprints",
+            "certificate_hash": "65c90ba4d85faec88ba2e00718d9758576cfd713"
+          }
+        },
+        {
+          "client_id": "395472208925-bh109a696c72fb1rgaodd562q3gg8kpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlumWyRvTAzpaCOxTmM7uT3h3FbzL7j4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395472208925-bh109a696c72fb1rgaodd562q3gg8kpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
